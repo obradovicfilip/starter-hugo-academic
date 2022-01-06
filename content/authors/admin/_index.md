@@ -3,7 +3,9 @@ role: Economics Ph.D. Candidate
 bio: Econometrics
 interests:
   - Econometrics
-  - ""
+  - Applied Econometrics
+  - Medical Econometrics
+  - Statistical Decision Theory
 social:
   - icon: envelope
     icon_pack: fas
@@ -25,12 +27,12 @@ education:
     - course: M.A. Economics
       institution: Northwestern University
       year: 2020
-    - course: M.Sc. Economics
-      institution: University of Belgrade
-      year: 2017
     - course: M.Sc. Quantitative Finance
       institution: University of Belgrade
       year: 2019
+    - course: M.Sc. Economics
+      institution: University of Belgrade
+      year: 2017
     - course: B.Sc. Economics
       institution: University of Belgrade
       year: 2015
