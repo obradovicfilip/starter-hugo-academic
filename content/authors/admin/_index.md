@@ -15,7 +15,7 @@ social:
     link: https://scholar.google.com/citations?user=9HG85IsAAAAJ&hl=en&oi=ao
   - icon: linkedin
     icon_pack: fab
-    link: www.linkedin.com/in/filip-obradovic
+    link: https://www.linkedin.com/in/filip-obradovic
 organizations:
   - name: Northwestern University
     url: https://economics.northwestern.edu/
