@@ -23,7 +23,7 @@ education:
   courses:
     - course: Ph.D. Economics
       institution: Northwestern University
-      year: ""
+      year: in progress
     - course: M.A. Economics
       institution: Northwestern University
       year: 2020
@@ -41,4 +41,4 @@ highlight_name: true
 title: Filip Obradović
 email: ""
 ---
-I’m a third year Ph.D. student at the Economics Department of Northwestern University. My research focuses on econometrics, medical econometrics, applied microeconometrics, and statistical decision theory.
+I am a third year economics Ph.D. student at Northwestern University. My research focuses on utilizing the latest developments in theoretical econometrics to solve issues in medical and health economics research, with particular emphasis on identification and inference.
